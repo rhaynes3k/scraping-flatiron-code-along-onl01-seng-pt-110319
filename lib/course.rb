@@ -1,2 +1,14 @@
-
+class Course
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+end
 
