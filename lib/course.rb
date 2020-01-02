@@ -13,7 +13,7 @@ class Course
       @@all
     end
   
-    def reset.all
+    def self.reset.all
       @@all = []
     end
     
